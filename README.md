@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my journey as a full-stack software engineer — from academic roots to real-world problem-solving. Built with a modern tech stack and a focus on clean design, scalability, and developer-centric UX.
 
 ## 🚀 Live Preview
-[🔗 Visit My Portfolio](https://your-deployed-portfolio-link.com)
+[🔗 Visit My Portfolio](https://urvashib03.github.io/Portfolio/)
 
 ---
 
